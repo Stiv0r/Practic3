@@ -1,0 +1,15 @@
+D:\Practic3Pav\bin\Debug\Practic3Pav.exe.config
+D:\Practic3Pav\bin\Debug\Practic3Pav.exe
+D:\Practic3Pav\bin\Debug\Practic3Pav.pdb
+D:\Practic3Pav\obj\Debug\Practic3Pav.csproj.AssemblyReference.cache
+D:\Practic3Pav\obj\Debug\MainWindow.g.cs
+D:\Practic3Pav\obj\Debug\App.g.cs
+D:\Practic3Pav\obj\Debug\Practic3Pav_MarkupCompile.cache
+D:\Practic3Pav\obj\Debug\Practic3Pav_MarkupCompile.lref
+D:\Practic3Pav\obj\Debug\MainWindow.baml
+D:\Practic3Pav\obj\Debug\Practic3Pav.g.resources
+D:\Practic3Pav\obj\Debug\Practic3Pav.Properties.Resources.resources
+D:\Practic3Pav\obj\Debug\Practic3Pav.csproj.GenerateResource.cache
+D:\Practic3Pav\obj\Debug\Practic3Pav.csproj.CoreCompileInputs.cache
+D:\Practic3Pav\obj\Debug\Practic3Pav.exe
+D:\Practic3Pav\obj\Debug\Practic3Pav.pdb

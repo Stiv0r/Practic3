@@ -1,0 +1,25 @@
+﻿<Window x:Class="zad2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad2"
+        mc:Ignorable="d"
+        Title="MainWindow" Background="ForestGreen" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="74,38,0,0" TextWrapping="Wrap" Text="Введите 2 числа:" VerticalAlignment="Top" Height="53" Width="255" FontSize="22"/>
+        <TextBox x:Name="vod" Grid.Column="1" HorizontalAlignment="Left" Height="42" Margin="72,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="253"/>
+        <TextBox x:Name="vod2" Grid.Column="1" HorizontalAlignment="Left" Height="42" Margin="72,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="253"/>
+        <Button Content="Решить" HorizontalAlignment="Left" Margin="237,76,0,0" Grid.Row="2" VerticalAlignment="Top" Width="149" Height="54" Click="Button_Click" FontSize="36" Grid.Column="1"/>
+        <TextBlock x:Name="otv" Grid.Column="1" HorizontalAlignment="Left" Margin="46,26,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="72" Width="279" FontSize="20"><Run Text="Ответ"/><Run Text=":"/></TextBlock>
+    </Grid>
+</Window>
